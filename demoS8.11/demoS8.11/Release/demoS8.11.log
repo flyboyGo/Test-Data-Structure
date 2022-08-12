@@ -1,0 +1,9 @@
+﻿  main.c
+  main2.c
+D:\VisualStudioWorkPlace\demoS8.11\demoS8.11\main2.c(55,10): warning C4013: “Print”未定义；假设外部返回 int
+  正在生成代码
+  3 of 6 functions (50.0%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  demoS8.11.vcxproj -> D:\VisualStudioWorkPlace\demoS8.11\Release\demoS8.11.exe
