@@ -1,0 +1,7 @@
+﻿  main.c
+D:\VisualStudioWorkPlace\demoS8.12\demoS8.12\main.c(56,23): warning C4133: “=”: 从“int *”到“DataType *”的类型不兼容
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 17 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  demoS8.12.vcxproj -> D:\VisualStudioWorkPlace\demoS8.12\Release\demoS8.12.exe
