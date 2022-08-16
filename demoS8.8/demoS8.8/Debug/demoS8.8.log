@@ -1,0 +1,9 @@
+﻿  main2.c
+  main3.c
+D:\VisualStudioWorkPlace\demoS8.8\demoS8.8\main3.c(44,21): warning C4013: “Swap”未定义；假设外部返回 int
+D:\VisualStudioWorkPlace\demoS8.8\demoS8.8\main3.c(215,19): warning C4013: “InsertSort”未定义；假设外部返回 int
+  main4.c
+  main5.c
+D:\VisualStudioWorkPlace\demoS8.8\demoS8.8\main5.c(10,10): warning C4013: “Print”未定义；假设外部返回 int
+  正在生成代码...
+  demoS8.8.vcxproj -> D:\VisualStudioWorkPlace\demoS8.8\Debug\demoS8.8.exe
