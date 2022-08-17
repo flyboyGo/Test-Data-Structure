@@ -1,0 +1,11 @@
+﻿  main.c
+D:\VisualStudioWorkPlace\demoS8.6\demoS8.6\main.c(117,11): warning C4013: “QueueInit”未定义；假设外部返回 int
+D:\VisualStudioWorkPlace\demoS8.6\demoS8.6\main.c(120,12): warning C4013: “QueuePush”未定义；假设外部返回 int
+D:\VisualStudioWorkPlace\demoS8.6\demoS8.6\main.c(123,20): warning C4013: “QueueEmpty”未定义；假设外部返回 int
+D:\VisualStudioWorkPlace\demoS8.6\demoS8.6\main.c(125,29): warning C4013: “QueueFront”未定义；假设外部返回 int
+D:\VisualStudioWorkPlace\demoS8.6\demoS8.6\main.c(126,11): warning C4013: “QueuePop”未定义；假设外部返回 int
+D:\VisualStudioWorkPlace\demoS8.6\demoS8.6\main.c(138,14): warning C4013: “QueueDestory”未定义；假设外部返回 int
+D:\VisualStudioWorkPlace\demoS8.6\demoS8.6\main.c(125,1): warning C4047: “初始化”:“BTNode *”与“int”的间接级别不同
+D:\VisualStudioWorkPlace\demoS8.6\demoS8.6\main.c(164,3): warning C4033: “TreeDestory”必须返回值
+D:\VisualStudioWorkPlace\demoS8.6\demoS8.6\main.c(173): warning C4716: “TreeDestory”: 必须返回一个值
+  demoS8.6.vcxproj -> D:\VisualStudioWorkPlace\demoS8.6\Debug\demoS8.6.exe
