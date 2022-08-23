@@ -1,0 +1,18 @@
+﻿  main.c
+D:\VisualStudioWorkPlace\demoS8.4\demoS8.4\main.c(26,11): warning C4013: “StackInit”未定义；假设外部返回 int
+D:\VisualStudioWorkPlace\demoS8.4\demoS8.4\main.c(35,11): warning C4013: “StackPush”未定义；假设外部返回 int
+D:\VisualStudioWorkPlace\demoS8.4\demoS8.4\main.c(43,16): warning C4013: “StackEmpty”未定义；假设外部返回 int
+D:\VisualStudioWorkPlace\demoS8.4\demoS8.4\main.c(47,35): warning C4013: “StackTop”未定义；假设外部返回 int
+D:\VisualStudioWorkPlace\demoS8.4\demoS8.4\main.c(48,12): warning C4013: “StackPop”未定义；假设外部返回 int
+D:\VisualStudioWorkPlace\demoS8.4\demoS8.4\main.c(83,14): warning C4013: “StackDestory”未定义；假设外部返回 int
+  main2.c
+D:\VisualStudioWorkPlace\demoS8.4\demoS8.4\main2.c(30,11): warning C4013: “QueueInit”未定义；假设外部返回 int
+D:\VisualStudioWorkPlace\demoS8.4\demoS8.4\main2.c(38,17): warning C4013: “QueueEmpty”未定义；假设外部返回 int
+D:\VisualStudioWorkPlace\demoS8.4\demoS8.4\main2.c(40,12): warning C4013: “QueuePush”未定义；假设外部返回 int
+D:\VisualStudioWorkPlace\demoS8.4\demoS8.4\main2.c(58,18): warning C4013: “QueueSize”未定义；假设外部返回 int
+D:\VisualStudioWorkPlace\demoS8.4\demoS8.4\main2.c(60,31): warning C4013: “QueueFront”未定义；假设外部返回 int
+D:\VisualStudioWorkPlace\demoS8.4\demoS8.4\main2.c(61,11): warning C4013: “QueuePop”未定义；假设外部返回 int
+D:\VisualStudioWorkPlace\demoS8.4\demoS8.4\main2.c(73,19): warning C4013: “QueueBack”未定义；假设外部返回 int
+D:\VisualStudioWorkPlace\demoS8.4\demoS8.4\main2.c(88,14): warning C4013: “QueueDestory”未定义；假设外部返回 int
+  正在生成代码...
+  demoS8.4.vcxproj -> D:\VisualStudioWorkPlace\demoS8.4\Debug\demoS8.4.exe
